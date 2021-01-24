@@ -1,1 +1,1 @@
-# neon-jumping-boxes
+# jumping-box
